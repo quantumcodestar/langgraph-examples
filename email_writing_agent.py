@@ -92,3 +92,18 @@ print(snapshot.values["email_subject"])
 
 print("Body:")
 print(snapshot.values["email_body"])
+
+# Output example:
+
+# Subject:
+# Persistent Internet Connection Issue with AmazingInternet - Urgent Assistance Required
+# Body:
+# Dear Joan Smith,
+
+# I am writing to bring to your attention a persistent issue I have been experiencing with my internet connection from AmazingInternet. Since January 1st, 2025, my connection has been failing every day for at least three hours, resulting in significant disruptions to my daily activities.
+
+# I would greatly appreciate it if you could look into this matter and provide a solution as soon as possible. I have tried troubleshooting the issue on my end, but unfortunately, the problem persists. I am confident that your team can assist me in resolving this issue and restoring reliable internet service.
+
+# Could you please let me know what steps I need to take next or if there is any additional information you require from me? I look forward to hearing back from you soon.
+
+# Thank you for your attention to this matter, and I appreciate your help in getting my internet connection up and running smoothly again.
