@@ -70,7 +70,8 @@ config = {
     }
 }
 
-request = """Generate only the body of a polite email to Joan Smith from AmazingInternet, 
+# Example user request
+request = """Generate only the body of a polite email to Joan Smith from MyInternetCompanyInc, 
 requesting a solution to an ongoing issue with my internet connection. 
 
 The connection has been failing every day for at least 3 hours since 01/01/2025. 
