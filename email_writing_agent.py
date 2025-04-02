@@ -84,7 +84,7 @@ response = graph.invoke(
 # Print agent state snapshot
 snapshot = graph.get_state(config)
 
-# Do whatever you want with the values or create another node to automate the email sending
+# Feel free to use the values as needed, or you can create another node to automate the email sending
 
 print("Subject:")
 print(snapshot.values["email_subject"])
