@@ -1,7 +1,6 @@
 # Create a Python virtual environment
 
 python -m venv venv
-python3 -m venv venv
 
 # Activate your environment
 
